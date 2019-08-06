@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
-import ResultComponent from './components/ResultComponent';
-import KeyPadComponent from "./components/KeyPad";
+import ResultComponent from './component/ResultComponent';
+import KeyPadComponent from "./component/keypad";
 
 class App extends Component {
     constructor(){
